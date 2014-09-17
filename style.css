@@ -1,0 +1,16 @@
+body {
+    background-color: #963482;
+    color: #ffb67f;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+h1, h2 {
+    font-size: 1.5em;
+    font-weight:normal;
+    font-family: 'Pacifico', cursive;
+}
+
+.cakestand {
+    stroke: #ffb67f;
+}
