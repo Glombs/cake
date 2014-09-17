@@ -11,6 +11,11 @@ h1, h2 {
     font-family: 'Pacifico', cursive;
 }
 
-.cakestand {
+h1 {
+    font-size: 3em;
+}
+
+.cakestand path {
     stroke: #ffb67f;
+    height: 10em;
 }
