@@ -3,12 +3,16 @@ body {
     color: #ffb67f;
     font-family: 'Quicksand', sans-serif;
     text-align: center;
+    
+    font-size: 3.5vm;
+    font-size: 3.5vmin;
 }
 
 h1, h2 {
     font-size: 1.5em;
     font-weight:normal;
     font-family: 'Pacifico', cursive;
+    margin:0.75em;
 }
 
 h1 {
@@ -17,5 +21,9 @@ h1 {
 
 .cakestand path {
     stroke: #ffb67f;
+    height: 10em;
+}
+
+.cakestand {
     height: 10em;
 }
